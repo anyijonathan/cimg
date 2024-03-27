@@ -4,4 +4,4 @@ CIMG vendor switch frontend is a web application that is used to manage telcos, 
 
 # Getting Started
 
-The web application leverages on Apis built specifically for the purpose by the backend team of FCMB
+The web application leverages on Apis built specifically for the purpose by the backend team of FCMB.
